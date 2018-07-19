@@ -1,0 +1,79 @@
+{
+    "id": "b04pgzts",
+    "type": "episode",
+    "title": "Gareth's All Star Choir",
+    "original_title": "Episode 2",
+    "lexical_sort_letter": "G",
+    "live": false,
+    "subtitle": "Gareth's All Star Choir: Episode 2",
+    "synopses": {
+        "small": "Short synopsis",
+        "medium": "Medium synopsis",
+        "large": "Long synopsis"
+    },
+    "tleo_id": "b04p21n9",
+    "tleo_type": "brand",
+    "images": {
+        "standard": "https://ichef.bbci.co.uk/images/ic/{recipe}/p029810v.jpg",
+        "type": "image",
+        "inherited_from": "series"
+    },
+    "labels": {
+        "time": "#{labels.time.last-chance}",
+        "category": "#{labels.category.drama-and-soaps}"
+    },
+    "parent_id": "b04p21n9",
+    "guidance": true,
+    "release_date": "10 #{month.nov} 2014",
+    "release_date_time": "2014-11-10T00:00:00.000Z",
+    "parent_position": 2,
+    "master_brand": null,
+    "related_links": [
+        {
+            "id": "p02bp9kd",
+            "type": "link",
+            "kind": "priority_content",
+            "title": "Play the Relationship Guru",
+            "url": "http://www.bbc.co.uk/programmes/articles/2vl9Tpyf408qd6LStBs7Ty5/the-relationship-guru-by-team-tenacity"
+        }
+    ],
+    "status": "available",
+    "versions": [
+        {
+            "type": "version",
+            "id": "b063jv1k",
+            "kind": "original",
+            "duration": {
+                "value": "PT30M",
+                "text": "30 #{duration.mins}"
+            },
+            "guidance": {
+                "id": "L3LA",
+                "text": {
+                    "small": "#{guidance.has-guidance}",
+                    "medium": "Contains some strong language and adult humour.",
+                    "large": "Contains some strong language and adult humour."
+                }
+            },
+            "availability": {
+                "start": "2014-11-10T22:01:12Z",
+                "end": "2014-12-16T15:45:00Z"
+            },
+            "hd": true,
+            "download": true,
+            "first_broadcast": "9:05#{availability.pm} 10 #{month.nov} 2014"
+        }
+    ],
+    "requires_tv_licence": true,
+    "requires_sign_in": true,
+    "suppliers": [],
+    "categories": [
+        "comedy",
+        "documentaries",
+        "drama-and-soaps",
+        "food"
+    ],
+    "signed": false,
+    "audio_described": false,
+    "has_credits": false
+}
